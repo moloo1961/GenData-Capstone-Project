@@ -1,2 +1,2 @@
 # GenData-Capstone-Project
-This is a repo that contains my general data analytics capstone project
+A repo for my General Data Analytics Capstone Project
