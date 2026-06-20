@@ -37,7 +37,7 @@ Tableau for visual analysis and the final dashboard.
 
 1. Is there a gap between low and top performers? (KPI cards)
 State of Company?
-AVG Performance Score + Attrition + Satisfaction
+AVG Performance Score + Attrition Rate + Satisfaction
 
 What's the driving force?
 Top Performer % + Training Hours + Promotions
@@ -45,7 +45,7 @@ Top Performer % + Training Hours + Promotions
 Question: Where is the gap worst?
 
 
-2. Does the gap have an address? (Chart)
+2. Does the gap have an address? (Bar Chart)
 Which departments have the highest 
 concentration of low performers?
 
@@ -54,7 +54,7 @@ Departments & Performance Score & Employee ID
 Question: What do people in the low-scoring dept lack?
 
 
-3. Are low performers undertrained (Chart)
+3. Are low performers undertrained (Scatter Plot Chart)
 Is there a link between training hours 
 and performance score?
 
@@ -63,9 +63,9 @@ Training hours & Performance Score & Department
 Question: Is it just training or are they unhappy?
 
 
-4. Is it dissatisfaction? (Chart)
+4. Is it dissatisfaction? (Grouped bar Chart)
 Do high performers have higher job 
-satisfaction or does it vary?
+satisfaction than low performers or does it vary?
 
 Performance Score & Employee Satisfaction Score
 Performance score tier:
@@ -102,4 +102,5 @@ Attrition rate & Performance tier & Tenure
 HR can spot at-risk employees before 
 attrition spikes, managers can prioritize 
 training budgets, and leadership can see 
-which departments need structural support, not just motivation.
+which departments need structural support, 
+not just motivation.
