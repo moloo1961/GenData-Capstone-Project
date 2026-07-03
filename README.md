@@ -1,4 +1,6 @@
-# GenData-Capstone-Project
-This is a repo that contains my general data analytics capstone project
+# What Makes a Top Performer?
+# **An HR Data Deep Dive**
 
-# **Mind the Gap** : *An Anlytical Deep Dive into the True Coat of Employee Performance Disparity*
+A repo for my General Data Analytics Capstone Project
+
+[What Makes A Top Performer?](https://public.tableau.com/app/profile/madlene.oloo/viz/MindtheGapWorkboard/Dashboard3)
