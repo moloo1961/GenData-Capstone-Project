@@ -1,6 +1,8 @@
 1. What is the problem you are solving?
 > Businesses or your audience care about problems. Make the problem clear and relatable
 
+What makes a top performer? An HR data deep dive
+
 In todays world, most organisations 
 measure employee performance but few 
 understand what drives it. It is 
@@ -35,21 +37,20 @@ Tableau for visual analysis and the final dashboard.
 > Don’t just say “dashboard done.”
 > Share the “aha!” moments, they matter more that the visuals
 
-1. Is there a gap between low and top performers? (KPI cards)
-State of Company?
-AVG Performance Score + Attrition Rate + Satisfaction
+A. THE PERFORMANCE STORY (SUMMARY/INTRO)
 
-What's the driving force?
-Top Performer % + Training Hours + Promotions
+1. What is the state of the company? (KPI cards)
+Active employees + Attrition Rate + Top performer + 
+Satisfaction Score
 
-Question: Where is the gap worst?
+Question: Is there a gap between top and low performers?
 
 
 2. Does the gap have an address? (Bar Chart)
 Which departments have the highest 
 concentration of low performers?
 
-Departments & Performance Score & Employee ID
+Departments & Performance Score
 
 Question: What do people in the low-scoring dept lack?
 
@@ -76,22 +77,41 @@ high
 Question: Does where or how they work play a role?
 
 
-5. What does their work setup look like? (Chart)
-Do remote workers perform differently 
-from on-site workers?
-
-Perfomance score & Remote_Work_Frequency & Tenure 
-Remote: 100
-Hybrid: 25/50/75
-On-site: 0
-
-Question: So what actually happens to low performers?
-
-
-6. What is the cost of the gap? (Chart)
+5. What is the cost of the gap? (Chart)
 Do low performers resign more or do high performers leave due to poor satisfaction??
 
 Attrition rate & Performance tier & Tenure 
+
+Question: What does effort vs reward look like across the company?
+
+
+B. THE BURNOUT DEEP DIVE 
+
+6. What is the workload and compensation baseline? (Scatter 
+Plot)
+What are the hours per week in comparison with salary?
+Work_Hours_Per_Week + Overtime_Hours (side by side) & 
+Monthly_Salary
+
+Question: Who exactly is doing all this work?
+
+
+7. What is the Demographic Matrix? (Table)
+Is effort going unrecognized? 
+Age & Gender & Eduaction Level & Job title & Promotions & Department
+
+Question: What is the pay across education and gender?
+
+
+8. What is the pay parity? (Table)
+What is the equity index? 
+Monthy Salary & Education Level & Gender & Job title & Performance Score
+
+Question: What makes a top performer?
+
+9. What is the burnout red flag? (Scatter Plot)
+Is the burnout wheel about how much people work or whether anyone notices?
+Overtime Hours & Employee Satisfaction Score & Promotions & Resigned & Employee ID & Department & Performance Score
 
 
 
